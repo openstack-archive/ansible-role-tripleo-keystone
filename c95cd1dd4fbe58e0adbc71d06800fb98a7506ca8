@@ -1,0 +1,8 @@
+Code-Review+2: James Slagle <jslagle@redhat.com>
+Workflow+1: James Slagle <jslagle@redhat.com>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Tue, 17 Jul 2018 19:09:48 +0000
+Reviewed-on: https://review.openstack.org/581811
+Project: openstack/ansible-role-tripleo-keystone
+Branch: refs/heads/master
