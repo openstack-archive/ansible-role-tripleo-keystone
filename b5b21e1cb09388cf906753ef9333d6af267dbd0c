@@ -1,0 +1,9 @@
+Code-Review+2: Emilien Macchi <emilien@redhat.com>
+Code-Review+2: James Slagle <jslagle@redhat.com>
+Workflow+1: James Slagle <jslagle@redhat.com>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Fri, 27 Jul 2018 12:47:45 +0000
+Reviewed-on: https://review.openstack.org/585548
+Project: openstack/ansible-role-tripleo-keystone
+Branch: refs/heads/master
