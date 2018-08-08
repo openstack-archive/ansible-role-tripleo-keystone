@@ -1,0 +1,9 @@
+Code-Review+2: Emilien Macchi <emilien@redhat.com>
+Code-Review+2: Alex Schultz <aschultz@redhat.com>
+Workflow+1: Alex Schultz <aschultz@redhat.com>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Wed, 08 Aug 2018 20:06:53 +0000
+Reviewed-on: https://review.openstack.org/588408
+Project: openstack/ansible-role-tripleo-keystone
+Branch: refs/heads/master
